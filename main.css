@@ -1,0 +1,35 @@
+.dev{
+    background-color: #C1C1C5;
+}
+.fot{
+    background-color: #000031;
+    color: #fff;
+    
+}
+.sec{
+    background-color: #FBB1B1;
+    
+   
+}
+.font{
+    color: #000031;
+}
+.btn-se{
+    background-color: #EC5B53;
+    color: #fff;
+
+    
+    
+}
+.btn-se:hover{
+
+    border-color: #EC5B53;
+    color: #000031;
+}
+
+.style{
+    padding-bottom: 40px;
+}
+.gradient{
+    background: linear-gradient(#FFFFFF, #FBB1B1);
+}
